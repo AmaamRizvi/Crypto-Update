@@ -25,7 +25,7 @@ const Exchanges = () => {
      {
       loading ? <Loader/> : <> 
        <Header/>
-       <OurModel/> 
+       {/* <OurModel/>    3d model can be added */}
    <div>
      {
       exchanges.map((item,i)=>{
