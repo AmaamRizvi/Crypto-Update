@@ -7,8 +7,6 @@
 ## Preview
 ![cr 1](https://github.com/AmaamRizvi/Crypto-Update/assets/128987283/0b2ae67c-e091-4444-8186-0af9e4b45022)
 
-![cr 1](https://github.com/AmaamRizvi/Crypto-Update/assets/128987283/27bd1163-9d2d-4258-a558-757518b220ee)
-
 ![cr 3](https://github.com/AmaamRizvi/Crypto-Update/assets/128987283/b4d555b4-7032-4399-9357-e7faaf6a6009)
 
 ![cr 11](https://github.com/AmaamRizvi/Crypto-Update/assets/128987283/3a3c6d1e-7993-4e7b-9de3-f10fac18e84b)
